@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Preface
 
 This project is a beginner-friendly Data Engineering project focused on migrating e-commerce data from SQL Server to PostgreSQL.
@@ -158,3 +159,4 @@ Post-Migration Validation
 ↓
 
 Validation Report
+
